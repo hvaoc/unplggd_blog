@@ -1,3 +1,3 @@
 # Hello World
 
-This is my Hello World page.
+This is my Hello World post.
